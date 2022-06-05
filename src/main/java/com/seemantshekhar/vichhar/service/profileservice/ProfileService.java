@@ -1,4 +1,4 @@
-package com.seemantshekhar.vichhar.service.profile;
+package com.seemantshekhar.vichhar.service.profileservice;
 
 import com.seemantshekhar.vichhar.beans.profile.ProfileDto;
 import com.seemantshekhar.vichhar.beans.user.UserDto;
