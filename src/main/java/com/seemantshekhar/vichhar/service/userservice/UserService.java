@@ -1,6 +1,6 @@
 package com.seemantshekhar.vichhar.service.userservice;
 
-import com.seemantshekhar.vichhar.beans.user.UserDto;
+import com.seemantshekhar.vichhar.domain.user.UserDto;
 
 public interface UserService {
     UserDto registration(final UserDto.Registration registration);

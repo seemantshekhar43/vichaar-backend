@@ -1,6 +1,6 @@
 package com.seemantshekhar.vichhar.controller.tag;
 
-import com.seemantshekhar.vichhar.beans.tag.TagDto;
+import com.seemantshekhar.vichhar.domain.tag.TagDto;
 import com.seemantshekhar.vichhar.service.tagservice.TagService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

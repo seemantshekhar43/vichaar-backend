@@ -1,6 +1,6 @@
-package com.seemantshekhar.vichhar.beans.user;
+package com.seemantshekhar.vichhar.domain.user;
 
-import com.seemantshekhar.vichhar.beans.BaseEntity;
+import com.seemantshekhar.vichhar.domain.BaseEntity;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

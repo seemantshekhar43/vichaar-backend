@@ -1,4 +1,4 @@
-package com.seemantshekhar.vichhar.beans.tag;
+package com.seemantshekhar.vichhar.domain.tag;
 
 import lombok.*;
 

@@ -1,6 +1,6 @@
 package com.seemantshekhar.vichhar.controller.user;
 
-import com.seemantshekhar.vichhar.beans.user.UserDto;
+import com.seemantshekhar.vichhar.domain.user.UserDto;
 import com.seemantshekhar.vichhar.service.userservice.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.PostMapping;

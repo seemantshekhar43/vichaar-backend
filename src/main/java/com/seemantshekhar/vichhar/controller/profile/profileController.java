@@ -1,7 +1,7 @@
 package com.seemantshekhar.vichhar.controller.profile;
 
-import com.seemantshekhar.vichhar.beans.profile.ProfileDto;
-import com.seemantshekhar.vichhar.beans.user.UserDto;
+import com.seemantshekhar.vichhar.domain.profile.ProfileDto;
+import com.seemantshekhar.vichhar.domain.user.UserDto;
 import com.seemantshekhar.vichhar.service.profileservice.ProfileService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;

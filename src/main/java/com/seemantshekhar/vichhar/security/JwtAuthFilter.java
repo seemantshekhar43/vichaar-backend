@@ -21,7 +21,6 @@ public class JwtAuthFilter extends GenericFilter {
         String jwt = jwtUtils.resolveToken(request);
         if(jwt != null && jwtUtils.validateToken(jwt)){
             String username = jwtUtils.getSub(jwt);
-            log.info("username: " + username);
             Authentication authentication = authenticationProvider.getAuthentication(username);
             SecurityContextHolder.getContext().setAuthentication(authentication);
         }

@@ -1,9 +1,9 @@
 package com.seemantshekhar.vichhar.service.profileservice;
 
-import com.seemantshekhar.vichhar.beans.profile.FollowEntity;
-import com.seemantshekhar.vichhar.beans.profile.ProfileDto;
-import com.seemantshekhar.vichhar.beans.user.UserDto;
-import com.seemantshekhar.vichhar.beans.user.UserEntity;
+import com.seemantshekhar.vichhar.domain.profile.FollowEntity;
+import com.seemantshekhar.vichhar.domain.profile.ProfileDto;
+import com.seemantshekhar.vichhar.domain.user.UserDto;
+import com.seemantshekhar.vichhar.domain.user.UserEntity;
 import com.seemantshekhar.vichhar.exception.AppException;
 import com.seemantshekhar.vichhar.exception.Error;
 import com.seemantshekhar.vichhar.repository.FollowRepository;

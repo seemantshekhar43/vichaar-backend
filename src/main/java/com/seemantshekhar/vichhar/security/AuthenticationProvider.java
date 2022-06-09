@@ -1,7 +1,7 @@
 package com.seemantshekhar.vichhar.security;
 
-import com.seemantshekhar.vichhar.beans.user.UserDto;
-import com.seemantshekhar.vichhar.beans.user.UserEntity;
+import com.seemantshekhar.vichhar.domain.user.UserDto;
+import com.seemantshekhar.vichhar.domain.user.UserEntity;
 import com.seemantshekhar.vichhar.service.userservice.UserDetailsServiceImpl;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

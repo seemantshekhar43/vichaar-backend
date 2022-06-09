@@ -1,6 +1,6 @@
 package com.seemantshekhar.vichhar.service.tagservice;
 
-import com.seemantshekhar.vichhar.beans.tag.ArticleTagRelationEntity;
+import com.seemantshekhar.vichhar.domain.tag.ArticleTagRelationEntity;
 import com.seemantshekhar.vichhar.repository.TagRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

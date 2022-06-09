@@ -1,6 +1,6 @@
 package com.seemantshekhar.vichhar.repository;
 
-import com.seemantshekhar.vichhar.beans.profile.FollowEntity;
+import com.seemantshekhar.vichhar.domain.profile.FollowEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

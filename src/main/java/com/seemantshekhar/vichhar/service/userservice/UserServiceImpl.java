@@ -1,7 +1,7 @@
 package com.seemantshekhar.vichhar.service.userservice;
 
-import com.seemantshekhar.vichhar.beans.user.UserDto;
-import com.seemantshekhar.vichhar.beans.user.UserEntity;
+import com.seemantshekhar.vichhar.domain.user.UserDto;
+import com.seemantshekhar.vichhar.domain.user.UserEntity;
 import com.seemantshekhar.vichhar.exception.AppException;
 import com.seemantshekhar.vichhar.exception.Error;
 import com.seemantshekhar.vichhar.repository.UserRepository;

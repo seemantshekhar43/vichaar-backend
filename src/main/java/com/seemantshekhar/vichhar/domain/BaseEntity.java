@@ -1,4 +1,4 @@
-package com.seemantshekhar.vichhar.beans;
+package com.seemantshekhar.vichhar.domain;
 
 import lombok.*;
 import org.springframework.data.annotation.CreatedDate;

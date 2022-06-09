@@ -1,4 +1,4 @@
-package com.seemantshekhar.vichhar.beans.profile;
+package com.seemantshekhar.vichhar.domain.profile;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;

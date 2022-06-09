@@ -1,7 +1,7 @@
-package com.seemantshekhar.vichhar.beans.profile;
+package com.seemantshekhar.vichhar.domain.profile;
 
-import com.seemantshekhar.vichhar.beans.BaseEntity;
-import com.seemantshekhar.vichhar.beans.user.UserEntity;
+import com.seemantshekhar.vichhar.domain.BaseEntity;
+import com.seemantshekhar.vichhar.domain.user.UserEntity;
 import lombok.*;
 
 import javax.persistence.*;

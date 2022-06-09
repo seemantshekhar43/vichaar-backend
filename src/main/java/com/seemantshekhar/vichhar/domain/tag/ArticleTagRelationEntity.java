@@ -1,16 +1,14 @@
-package com.seemantshekhar.vichhar.beans.tag;
+package com.seemantshekhar.vichhar.domain.tag;
 
-import com.seemantshekhar.vichhar.beans.BaseEntity;
-import com.seemantshekhar.vichhar.beans.article.ArticleEntity;
-import lombok.AllArgsConstructor;
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
+import com.seemantshekhar.vichhar.domain.BaseEntity;
+import com.seemantshekhar.vichhar.domain.article.ArticleEntity;
+import lombok.*;
 
 import javax.persistence.*;
 
 @Getter
 @Setter
+@Builder
 @NoArgsConstructor
 @AllArgsConstructor
 @Entity
